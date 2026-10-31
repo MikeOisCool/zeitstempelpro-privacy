@@ -9,7 +9,7 @@ Altvaterstrasse 23
 85080 Gaimersheim
 Deutschland
 
-E-Mail: morphois77@web.de
+E-Mail: ouazzaniapps@gmail.com
 
 2. Allgemeines
 
