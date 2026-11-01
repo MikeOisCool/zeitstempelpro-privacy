@@ -62,7 +62,9 @@ Bei einer Weitergabe an Drittanbieter, beispielsweise Cloud-Dienste oder E-Mail-
 
 ## 6. Werbung und Tracking
 
-ZeitStempel Pro verwendet nach dem vorgesehenen Datenschutzkonzept keine Werbenetzwerke.
+ZeitStempel Pro ist vollständig werbefrei.
+
+Die App verwendet keine Werbenetzwerke und blendet keine Werbung ein.
 
 Es werden keine eigenen Tracking- oder Analyseverfahren eingesetzt und keine personenbezogenen Nutzerprofile für Werbezwecke erstellt.
 
