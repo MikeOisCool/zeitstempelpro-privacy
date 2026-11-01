@@ -11,8 +11,11 @@ Stand: 31. Oktober 2026
 **Entwickler:** OuazzaniApps
 
 Michael Ouazzani-Chahdi
+
 Altvaterstrasse 23
+
 85080 Gaimersheim
+
 Deutschland
 
 E-Mail: ouazzaniapps@gmail.com
