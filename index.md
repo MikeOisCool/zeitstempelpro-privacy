@@ -5,7 +5,9 @@ Stand: 31. Oktober 2026
 ## 1. Verantwortlicher
 
 **App:** ZeitStempel Pro
+
 **Paketname:** com.mikeo.zeitstempelpro
+
 **Entwickler:** OuazzaniApps
 
 Michael Ouazzani-Chahdi
